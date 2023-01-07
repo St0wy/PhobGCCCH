@@ -1,0 +1,4 @@
+- Removed the Phob logo
+- Added "post tenebras shine"
+- Added various swiss cross
+- Added link to this repo
