@@ -4,6 +4,8 @@ Repository for the modifications made for the swiss group order of the PhobGCCv2
 
 We added a swiss cross on the board and removed the phob logo.
 
+Thanks to joedalton17 on the swiss melee discord for adding them !
+
 ![front image](img/Front2.PNG)
 ![back image](img/Back2.PNG)
 
